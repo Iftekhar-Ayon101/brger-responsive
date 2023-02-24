@@ -1,0 +1,941 @@
+@media (min-width: 279px) and (max-width:319px){
+
+.header{width: 100%;
+		padding: 20px 0px 0px;
+	}
+.main-menu .logo{
+	width: 100%;
+	margin: -6px 0px 0px;
+}
+.main-menu .text-right {
+	font-size: 6px;
+}
+
+.main-menu .bike {
+	width: 10%;
+}
+.main-menu .bi {
+	margin: 7px 0px 0px 5px;
+}
+
+.navbar-nav {
+	margin-top: -20px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 7px;
+    margin: 0px 0px 0px -105px;}
+
+    .banner {
+	width:100%;
+	padding: 0px 0px 0px;
+}
+
+.inner-banner h5 {
+	width: 100%;
+	font-size: 9px;
+line-height: 1.2em;
+margin: -80px 0px 0px 0px;
+}
+.inner-banner h5 span {
+padding: 6px;
+	margin: 0px 0px 15px 8px;
+}
+.inner-banner h1{
+	width: 100%;
+	font-size: 43px;
+line-height: 1.2em;
+margin: 0px 6px 0px 0px;
+}
+.inner-banner h3{
+font-size: 25px;
+line-height: 1.2em;}
+
+.banner .img-fluid {
+	 max-width: 100%;
+    margin: -10px 0px 0px -22px;
+}
+
+.feature {
+    width: 100%;
+    padding: 20px 0px 10px;
+}
+.feature .card {
+margin: 0px 0px 10px;
+}
+.feature .card h5 {
+	font-size: 9px;
+line-height: 1.2em;
+margin: 4px 0px 0px;
+}
+.feature .card h2 {
+	font-size: 18px;
+	line-height: 1.2em;
+}
+
+/*choose start*/
+
+.choose {
+	width: 100%;
+	padding: 5px 0px 10px;
+}
+.choose .title{
+	width: 100%;
+	padding: 0px 0px 10px;
+}
+.choose .title h3 {
+font-size: 10px;
+line-height: 1.2em;
+}
+.choose .title h3 span{
+	padding: 6px;
+	margin: 0px 0px 5px;
+}
+.choose .title h2{
+	font-size: 22px;
+	line-height: 1.2em;
+}
+.choose .title p{
+	width: 100%;
+	font-size: 11px;
+	line-height: 1.7em;
+	margin: 0px 0px 0px;
+}
+.choose .title p br {
+display: none;
+}
+.choose-inner .img-fluid{
+width: 500px;
+height: 160px;
+margin: 0px 0px 10px 10px;
+}
+.choose-inner h4{
+	font-size: 18px;
+line-height: 1.6em;
+}
+.choose-inner p{
+	width: 100%;
+	font-size: 11px;
+	line-height: 1.7em;
+	
+}
+.choose-inner .btn-danger{
+	padding: 8px 13px;
+font-size: 9px;
+margin: 5px 0px 0px;
+}
+
+.slider {
+    width: 100%;
+    padding: 10px 0px 10px;
+}
+.slider .owl-carousel {
+	width: 100%;
+	padding: 20px 15px 40px;}
+.slider .owl-carousel .item h4 {
+	font-size: 16px;
+line-height: 1.4em;
+}
+.slider .owl-carousel .item h2 {
+	font-size: 18px;
+line-height: 1.2em;
+}
+.slider .owl-carousel .item p{
+width: 100%;
+	font-size: 11px;
+	line-height: 1.7em;
+}
+.owl-theme .owl-dots .owl-dot span {
+    width: 6px !important;
+    height: 6px !important;}
+.slider .owl-theme .owl-nav.disabled+.owl-dots{
+	bottom: 2%;
+	left: 2%;
+}
+
+.contact {
+	width: 100%;
+	padding: 15px 10px 10px;}
+	.contact .title {
+	width: 100%;
+	padding:0px 0px 25px;}
+
+	.contact .title h4{
+		font-size: 14px;
+     line-height: 1.4em;
+	}
+	.contact .title h2 {
+		font-size: 20px;
+        line-height: 1.2em;
+	}
+.contact .main-form .form-control {
+	font-size: 12px;
+}
+.contact .main-form .btn-danger {
+	padding: 10px;
+font-size: 11px;
+}
+
+
+/*footer start*/
+.footer{
+	width: 100%;
+	padding: 10px 0px 15px;
+}
+.main-footer{
+	width: 100%;
+	padding: 30px 20px 10px;}
+	.f-text{
+	font-size: 11px;
+    margin: 0px 0px 20px;}
+
+    .main-footer .f-logo {
+		width: 85%;
+	}
+
+.f-text br {
+	display: none;
+}
+
+.info {
+    padding-left: 0em;
+}
+
+.info img {
+	width: 5%;
+}
+
+.info li {
+	font-size: 10px;
+	margin: 10px 0px 0px;
+}
+
+.info li img{
+	margin: 0px 10px 0px 0px ;
+}
+
+.copyri{ font-size: 11px;
+margin: 12px 0px 0px}
+
+.social-icons li a {
+	width:22px ;
+	height:22px ;
+	line-height:22px;
+	border-radius: 100%;
+	font-size: 8px;
+	text-align: center;
+	margin: 30px 0px 0px;
+}
+
+/*footer finish*/
+
+
+
+}
+@media (min-width: 320px) and (max-width:480px){
+	
+/*    header start*/
+
+
+	.header{width: 100%;
+		padding: 20px 0px 0px;
+	}
+.main-menu .logo{
+	width: 200px;
+	height: 22px;
+	margin: -6px 0px 0px;
+}
+.main-menu .text-right {
+	font-size: 8px;
+}
+
+.main-menu .bike {
+	width: 20px;
+}
+.main-menu .bi {
+	margin: 5px 0px 0px 5px;
+}
+.navbar-nav {
+	margin-top: -18px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 9px;
+    margin: 0px 0px 0px -120px;
+}
+/*header finish*/
+
+
+/*banner start*/
+.banner {
+	width:100%;
+	padding: 0px 0px 0px;
+}
+
+.inner-banner h5 {
+	width: 100%;
+	font-size: 12px;
+line-height: 1.2em;
+margin: -60px 0px 0px 0px;
+}
+.inner-banner h5 span {
+padding: 8px;
+	margin: 0px 0px 15px 8px;
+}
+.inner-banner h1{
+	width: 100%;
+	font-size: 55px;
+line-height: 1.2em;
+margin: 0px 6px 0px 0px;
+}
+.inner-banner h3{
+font-size: 34px;
+line-height: 1.2em;}
+
+.banner .img-fluid {
+	 max-width: 100%;
+    margin: -10px 0px 0px -32px;
+}
+/*banner finish*/
+
+
+
+/*feature start*/
+.feature {
+    width: 100%;
+    padding: 25px 0px;
+}
+.feature .card {
+margin: 0px 0px 15px;
+}
+.feature .card h5 {
+	font-size: 12px;
+line-height: 1.2em;
+margin: 8px 0px 0px;
+}
+.feature .card h2 {
+	font-size: 22px;
+	line-height: 1.2em;
+}
+/*feature finish*/
+
+
+
+
+/*choose start*/
+
+.choose {
+	width: 100%;
+	padding: 10px 0px 20px;
+}
+.choose .title{
+	width: 100%;
+	padding: 0px 0px 10px;
+}
+.choose .title h3 {
+font-size: 12px;
+line-height: 1.2em;
+}
+.choose .title h3 span{
+	padding: 6px;
+}
+.choose .title h2{
+	font-size: 27px;
+	line-height: 1.2em;
+}
+.choose .title p{
+	width: 100%;
+	font-size: 11px;
+	line-height: 1.7em;
+}
+.choose .title p br {
+display: none;
+}
+.choose-inner .img-fluid{
+width: 500px;
+height: 200px;
+margin: 0px 0px 10px 10px;
+}
+.choose-inner h4{
+	font-size: 26px;
+line-height: 1.6em;
+}
+.choose-inner p{
+	width: 100%;
+	font-size: 12px;
+	line-height: 1.7em;
+	
+}
+.choose-inner .btn-danger{
+	padding: 10px 18px;
+font-size: 9px;
+margin: 5px 0px 0px;
+}
+/*choose finish*/
+
+
+
+
+/*slider start*/
+.slider {
+    width: 100%;
+    padding: 15px 10px 20px;
+}
+.slider .owl-carousel {
+	width: 100%;
+	padding: 20px 15px 30px;}
+.slider .owl-carousel .item h4 {
+	font-size: 22px;
+line-height: 1.4em;
+}
+.slider .owl-carousel .item h2 {
+	font-size: 22px;
+line-height: 1.2em;
+}
+.slider .owl-carousel .item p{
+width: 100%;
+	font-size: 11px;
+	line-height: 1.7em;
+}
+.owl-theme .owl-dots .owl-dot span {
+    width: 7px !important;
+    height: 7px !important;}
+.slider .owl-theme .owl-nav.disabled+.owl-dots{
+	bottom: 0%;
+	left: 2%;
+}
+/* slider finish*/
+
+
+
+
+/*contact start*/
+ .contact {
+	width: 100%;
+	padding: 30px 20px 10px;}
+	.contact .title {
+	width: 100%;
+	padding:0px 0px 25px;}
+
+	.contact .title h4{
+		font-size: 22px;
+     line-height: 1.4em;
+	}
+	.contact .title h2 {
+		font-size: 24px;
+        line-height: 1.2em;
+	}
+.contact .main-form .form-control {
+	font-size: 15px;
+}
+.contact .main-form .btn-danger {
+	padding: 15px;
+font-size: 13px;
+}
+/*contact finish*/
+
+
+
+/*footer start*/
+.footer{
+	width: 100%;
+	padding: 10px 10px 20px;
+}
+.main-footer{
+	width: 100%;
+	padding: 20px 20px 10px;}
+	.f-text{
+	font-size: 12px;
+    margin: 0px 0px 30px;}
+
+    .main-footer .f-logo {
+		width: 80%;
+	}
+
+.f-text br {
+	display: none;
+}
+
+.info {
+    padding-left: 0em;
+}
+
+.info img {
+	width: 5%;
+}
+
+.info li {
+	font-size: 12px;
+}
+
+.info li img{
+	margin: 0px 10px 0px 0px ;
+}
+
+.copyri{ font-size: 12px;
+margin: 10px 0px 0px}
+
+.social-icons li a {
+	width:25px ;
+	height:25px ;
+	line-height:25px;
+	border-radius: 100%;
+	font-size: 10px;
+	text-align: center;
+	margin: 25px 0px 0px;
+}
+
+/*footer finish*/
+
+
+
+}
+/*media 480 finish*/
+
+
+
+
+
+@media (min-width: 481px) and (max-width:767px){
+
+.header{width: 100%;
+		padding: 35px 0px 0px;
+	}
+.main-menu .logo{
+	width: 400px;
+	height: 35px;
+	margin: -6px 0px 0px;
+}
+.main-menu .text-right {
+	font-size: 13px;
+}
+
+.main-menu .bike {
+	width: 25px;
+}
+.main-menu .bi {
+	margin: 4px 0px 0px 8px;
+}
+.navbar-nav {
+	margin-top: -10px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 14px;
+    margin: 0px 0px 0px -177px;
+}
+
+.banner {
+	width:100%;
+	padding: 0px 0px 0px;
+}
+
+.inner-banner h5 {
+	width: 100%;
+	font-size: 18px;
+line-height: 1.2em;
+margin: -80px 0px 0px 0px;
+}
+.inner-banner h5 span {
+padding: 8px;
+	margin: 0px 0px 15px 8px;
+}
+.inner-banner h1{
+	width: 100%;
+	font-size: 85px;
+line-height: 1.2em;
+margin: 0px 6px 0px 0px;
+}
+.inner-banner h3{
+font-size: 50px;
+line-height: 1.2em;}
+
+.banner .img-fluid {
+	 max-width: 100%;
+    margin: -10px 0px 0px -32px;
+}
+.feature {
+    width: 100%;
+    padding: 40px 15px;
+}
+.feature .card {
+margin: 0px 0px 20px;
+}
+.feature .card h5 {
+	font-size: 19px;
+line-height: 1.2em;
+margin: 8px 0px 0px;
+}
+.feature .card h2 {
+	font-size: 36px;
+	line-height: 1.2em;
+}
+/*choose start*/
+
+.choose {
+	width: 100%;
+	padding: 5px 0px 20px;
+}
+.choose .title{
+	width: 100%;
+	padding: 0px 0px 10px;
+}
+.choose .title h3 {
+font-size: 22px;
+line-height: 1.2em;
+}
+.choose .title h3 span{
+	padding: 10px;
+}
+.choose .title h2{
+	font-size: 40px;
+	line-height: 1.2em;
+}
+.choose .title p{
+	font-size: 16px;
+	line-height: 1.7em;
+}
+.choose .title p br {
+display: none;
+}
+.choose-inner .img-fluid{
+width: 600px;
+height: 270px;
+margin: 0px 0px 10px 10px;
+}
+.choose-inner h4{
+	font-size: 26px;
+line-height: 1.6em;
+}
+.choose-inner p{
+	font-size: 16px;
+	line-height: 1.7em;
+	
+}
+.choose-inner .btn-danger{
+	padding: 14px 28px;
+font-size: 14px;
+margin: 5px 0px 0px;
+}
+/*choose finish*/
+
+.slider {
+    width: 100%;
+    padding: 15px 10px 20px;
+}
+.slider .owl-carousel {
+	width: 100%;
+	padding: 40px 25px 50px ;}
+.slider .owl-carousel .item h4 {
+	font-size: 30px;
+line-height: 1.4em;
+}
+.slider .owl-carousel .item h2 {
+	font-size: 32px;
+line-height: 1.2em;
+}
+.slider .owl-carousel .item p{
+width: 100%;
+	font-size: 16px;
+	line-height: 1.7em;
+}
+.owl-theme .owl-dots .owl-dot span {
+    width: 9px !important;
+    height: 9px !important;}
+.slider .owl-theme .owl-nav.disabled+.owl-dots{
+	bottom: 1%;
+	left: 2%;
+}
+.contact {
+	width: 100%;
+	padding: 40px 30px 10px;}
+	.contact .title {
+	width: 100%;
+	padding:0px 0px 25px;}
+
+	.contact .title h4{
+		font-size: 30px;
+     line-height: 1.4em;
+	}
+	.contact .title h2 {
+		font-size: 32px;
+        line-height: 1.2em;
+	}
+.contact .main-form .form-control {
+	font-size: 18px;
+}
+.contact .main-form .btn-danger {
+	padding: 18px;
+font-size: 19px;
+}
+	
+.footer{
+	width: 100%;
+	padding: 20px 10px ;
+}
+.main-footer{
+	width: 100%;
+	padding: 30px 20px 10px;}
+	.f-text{
+	font-size: 16px;
+    margin: 0px 0px 30px;}
+
+    .main-footer .f-logo {
+		width: 80%;
+	}
+
+.f-text br {
+	display: none;
+}
+
+.info {
+    padding-left: 0em;
+}
+
+.info img {
+	width: 6%;
+}
+
+.info li {
+	font-size: 12px;
+}
+
+.info li img{
+	margin: 0px 10px 0px 0px ;
+}
+
+.copyri{ font-size: 16px;
+margin: 10px 0px 0px}
+
+.social-icons li a {
+	width:35px ;
+	height:35px ;
+	line-height:35px;
+	border-radius: 100%;
+	font-size: 16px;
+	text-align: center;
+	margin: 25px 0px 0px;
+}
+
+
+}
+
+
+
+
+@media (min-width: 768px) and (max-width:1024px){
+	
+	.header{ width: 100%;
+		padding: 70px 0px 0px;
+	}
+.main-menu .logo{
+	width: 400px;
+	height: 55px;
+	margin: -6px 0px 0px;
+}
+.main-menu .text-right {
+	font-size: 20px;
+}
+
+.main-menu .bike {
+	width: 45px;
+}
+.main-menu .bi {
+	margin: 8px 0px 0px 8px;
+}
+.navbar-nav {
+	margin-top: -10px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 18px;
+    margin: 0px 0px 0px -250px;
+}
+.banner {
+	width:100%;
+	padding: 30px 0px 0px;
+}
+
+.inner-banner h5 {
+	width: 100%;
+	font-size: 25px;
+line-height: 1.2em;
+margin: -80px 0px 0px 0px;
+}
+.inner-banner h5 span {
+padding: 10px;
+	margin: 0px 0px 15px 8px;
+}
+.inner-banner h1{
+	width: 100%;
+	font-size: 115px;
+line-height: 1.2em;
+margin: 0px 6px 0px 0px;
+}
+.inner-banner h3{
+font-size: 70px;
+line-height: 1.2em;}
+
+.banner .img-fluid {
+	 max-width: 100%;
+    margin: -10px 0px 0px -34px;
+}
+.feature {
+    width: 100%;
+    padding: 65px 30px 20px;
+}
+.feature .card {
+margin: 0px 0px 40px;
+}
+.feature .card h5 {
+	font-size: 29px;
+line-height: 1.2em;
+margin: 15px 0px 0px;
+}
+.feature .card h2 {
+	font-size: 56px;
+	line-height: 1.2em;
+}
+
+.choose {
+	width: 100%;
+	padding: 5px 0px 20px;
+}
+.choose .title{
+	width: 100%;
+	padding: 0px 0px 10px;
+}
+.choose .title h3 {
+font-size: 30px;
+line-height: 1.2em;
+}
+.choose .title h3 span{
+	padding: 18px;
+}
+.choose .title h2{
+	font-size: 60px;
+	line-height: 1.2em;
+}
+.choose .title p{
+	font-size: 19px;
+	line-height: 1.7em;
+}
+.choose .title p br {
+display: none;
+}
+.choose-inner .img-fluid{
+width: 600px;
+height: 330px;
+margin: 0px 0px 10px 10px;
+}
+.choose-inner h4{
+	font-size: 34px;
+line-height: 1.6em;
+}
+.choose-inner p{
+	font-size: 19px;
+	line-height: 1.7em;
+	
+}
+.choose-inner .btn-danger{
+	padding: 19px 34px;
+font-size: 18px;
+margin: 10px 0px 0px;
+}
+
+.slider {
+    width: 100%;
+    padding: 25px 20px 20px;
+}
+.slider .owl-carousel {
+	width: 100%;
+	padding: 40px 20px 50px ;}
+.slider .owl-carousel .item h4 {
+	font-size: 20px;
+line-height: 1.6em;
+}
+.slider .owl-carousel .item h2 {
+	font-size: 21px;
+line-height: 1.2em;
+}
+.slider .owl-carousel .item p{
+width: 100%;
+	font-size: 14px;
+	line-height: 1.7em;
+}
+.owl-theme .owl-dots .owl-dot span {
+    width: 9px !important;
+    height: 9px !important;}
+.slider .owl-theme .owl-nav.disabled+.owl-dots{
+	bottom: 4%;
+	left: 2%;
+}
+
+.contact {
+	width: 100%;
+	padding: 50px 20px 10px;}
+	.contact .title {
+	width: 100%;
+	padding:0px 0px 25px;}
+
+	.contact .title h4{
+		font-size: 36px;
+     line-height: 1.4em;
+	}
+	.contact .title h2 {
+		font-size: 50px;
+        line-height: 1.2em;
+	}
+.contact .main-form .form-control {
+	font-size: 20px;
+}
+.contact .main-form .btn-danger {
+	padding: 18px 25px;
+font-size: 17px;
+}
+.footer{
+	width: 100%;
+	padding: 30px 20px ;
+}
+.main-footer{
+	width: 100%;
+	padding: 30px 20px 10px;}
+	.main-footer .f-logo {
+		width: 45%;
+	}
+	.f-text{
+		width: 80%;
+	font-size: 14px;
+    margin: 0px 0px 30px;}
+
+.f-text br {
+	display: none;
+}
+
+.info {margin-top: 10px;
+    padding-left: 0em;
+}
+.info img {
+	width: 8%;
+}
+
+.info li {
+	font-size: 9px;
+}
+
+.info li img{
+	margin: 0px 10px 0px 0px ;
+}
+
+.copyri{ font-size: 15px;
+margin: 14px 0px 0px}
+
+.social-icons li a {
+	width:35px ;
+	height:35px ;
+	line-height:35px;
+	border-radius: 100%;
+	font-size: 16px;
+	text-align: center;
+	margin: 10px 0px 0px;
+}
+
+
+
+}
